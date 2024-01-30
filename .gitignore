@@ -1,3 +1,9 @@
 /.idea/
 *.iml
-*/build/
+*.iml
+.idea/codeStyles
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+Kafka-Stream-Alerting.iml
